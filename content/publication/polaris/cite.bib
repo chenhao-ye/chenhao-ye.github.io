@@ -1,0 +1,18 @@
+@article{10.1145/3588724,
+  author = {Ye, Chenhao and Hwang, Wuh-Chwen and Chen, Keren and Yu, Xiangyao},
+  title = {Polaris: Enabling Transaction Priority in Optimistic Concurrency Control},
+  year = {2023},
+  issue_date = {May 2023},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {1},
+  number = {1},
+  url = {https://doi.org/10.1145/3588724},
+  doi = {10.1145/3588724},
+  abstract = {Transaction priority is a critical feature for real-world database systems. Under high contention, certain classes of transactions should be given a higher chance to commit than others. Such a prioritization mechanism is commonly implemented in locking-based concurrency control protocols as some lock scheduling mechanisms, but it is rarely supported in the world of optimistic concurrency control.We present Polaris, an optimistic concurrency control protocol that supports multiple priority levels. To enforce priority, Polaris introduces a minimal amount of pessimism through a lightweight reservation mechanism. The protocol is fully optimistic among transactions within the same priority level and preserves the high throughput advantage of optimistic protocols. Our evaluation with YCSB workload shows that Polaris can make the p999 tail latency of high-priority transactions 13x lower than that of low-priority ones. With an abort-aware priority assignment policy, Polaris can deliver 1.9x higher throughput and 17x lower tail latency compared to Silo for high-contention workloads.},
+  journal = {Proc. ACM Manag. Data},
+  month = {may},
+  articleno = {44},
+  numpages = {24},
+  keywords = {optimistic concurrency control, OLTP, tail latency, transaction priority}
+}

@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'Chenhao Ye is a fourth-year computer science Ph.D. student at the University of Wisconsin-Madison, advised by Prof. Andrea Arpaci-Dusseau and Prof. Remzi Arpaci-Dusseau.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
