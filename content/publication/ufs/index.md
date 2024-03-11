@@ -33,7 +33,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-12-28T22:45:44.174524Z'
-publication_types: ['1']
+publication_types: ["conference"]
 abstract: 'We present uFS, a user-level filesystem semi-microkernel. uFS takes advantage of a high-performance storage development kit to realize a fully-functional, crash-consistent, highly-scalable filesystem, with relative developer ease. uFS delivers scalable high performance with a number of novel techniques: careful partitioning of in-memory and on-disk data structures to enable concurrent access without locking, inode migration for balancing load across filesystem threads, and a dynamic scaling algorithm for determining the number of filesystem threads to serve the current workload. Through measurements, we show that uFS has good base performance and excellent scalability; for example, uFS delivers nearly twice the throughput of ext4 for LevelDB on YCSB workloads.'
 publication: "*Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles*"
 publication_short: "**SOSP &apos;21**"

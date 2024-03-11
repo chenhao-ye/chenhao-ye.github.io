@@ -17,7 +17,7 @@ publishDate: 2022-12-28T17:26:30-06:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the 2023 International Conference on Management of Data*"
