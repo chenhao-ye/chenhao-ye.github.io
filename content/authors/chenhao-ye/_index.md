@@ -78,7 +78,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: files/ChenhaoYe-CV.pdf
+    link: files/chenhao-ye-cv.pdf
     display:
       header: true
 
@@ -89,8 +89,8 @@ email: 'chenhaoy@cs.wisc.edu'
 highlight_name: true
 ---
 
-I am a fourth-year computer science Ph.D. student at the University of Wisconsin-Madison, advised by Prof. [Andrea Arpaci-Dusseau](https://pages.cs.wisc.edu/~dusseau/) and Prof. [Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/) in [ADSL](https://research.cs.wisc.edu/adsl/). My research interest mainly focuses on computer systems.
+I am a fifth-year computer science Ph.D. student at the University of Wisconsin-Madison, advised by Prof. [Andrea Arpaci-Dusseau](https://pages.cs.wisc.edu/~dusseau/) and Prof. [Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/) in [ADSL](https://research.cs.wisc.edu/adsl/). My research interest mainly focuses on computer systems.
 {style="text-align: justify;"}
 
-I am recently working on the scheduling in a filesystem semi-microkernel.
+Random fun fact: I am recently learning High Valyrian. Rytsas!
 {style="text-align: justify;"}
