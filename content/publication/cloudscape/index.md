@@ -29,7 +29,7 @@ publication_types: ["conference"]
 publication: "*23rd USENIX Conference on File and Storage Technologies*"
 publication_short: "**FAST &apos;25**"
 
-abstract: ""
+abstract: "We present Cloudscape, a dataset of nearly 400 cloud architectures deployed on AWS. We perform an in-depth analysis of the usage of storage services in cloud systems. Our findings include: S3 is the most prevalent storage service (68%), while file system services are rare (4%); heterogeneity is common in the storage layer; storage services primarily interface with Lambda and EC2, while also serving as the foundation for more specialized ML and analytics services. Our findings provide a concrete understanding of how storage services are deployed in real-world cloud architectures, and our analysis of the popularity of different services grounds existing research."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -78,6 +78,6 @@ projects: []
 slides: ""
 
 links:
-# - name: URL
-  # url: 
+- name: URL
+  url: https://www.usenix.org/conference/fast25/presentation/satija
 ---
