@@ -89,8 +89,8 @@ email: 'chenhaoy@cs.wisc.edu'
 highlight_name: true
 ---
 
-I am a fifth-year computer science Ph.D. student at the University of Wisconsin-Madison, advised by Prof. [Andrea Arpaci-Dusseau](https://pages.cs.wisc.edu/~dusseau/) and Prof. [Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/) in [ADSL](https://research.cs.wisc.edu/adsl/). My research interest mainly focuses on computer systems.
+I am a final-year computer science Ph.D. student at the University of Wisconsin-Madison, advised by Prof. [Andrea Arpaci-Dusseau](https://pages.cs.wisc.edu/~dusseau/) and Prof. [Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/) in [ADSL](https://research.cs.wisc.edu/adsl/). My research interests encompass a broad range of computer systems topics, including storage, databases, distributed systems, and LLM infrastructure.
 {style="text-align: justify;"}
 
-Random fun fact: I am recently learning High Valyrian. Rytsas!
+I am recently working on the storage for LLM RL training. (*An arXiv preprint on my current work will be available soon.*)
 {style="text-align: justify;"}
