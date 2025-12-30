@@ -40,8 +40,8 @@ The site is deployed via GitHub Actions to GitHub Pages (see [.github/workflows/
 
 Configuration:
 - GitHub Actions uses Hugo v0.123.3 (set in `WC_HUGO_VERSION`)
-- Base URL: `https://pages.cs.wisc.edu/~chenhaoy/` (configured in [config/_default/hugo.yaml](config/_default/hugo.yaml))
-- Netlify configuration also exists in [netlify.toml](netlify.toml) (uses Hugo v0.123.3)
+- Base URL: `https://chenhao-ye.github.io/` (configured in [config/_default/hugo.yaml](config/_default/hugo.yaml))
+- Deployed to GitHub Pages at the repository's GitHub Pages URL
 
 ## Architecture and Content Structure
 
