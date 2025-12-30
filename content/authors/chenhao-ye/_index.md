@@ -92,5 +92,5 @@ highlight_name: true
 I am a final-year Ph.D. student in computer science at the University of Wisconsin-Madison, advised by Prof. [Andrea Arpaci-Dusseau](https://pages.cs.wisc.edu/~dusseau/) and Prof. [Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/) in [ADSL](https://research.cs.wisc.edu/adsl/). My research interests span a broad range of computer systems topics, including storage, databases, distributed systems, and LLM infrastructure.
 {style="text-align: justify;"}
 
-I am currently working on storage systems for LLM reinforcement learning training, in collaboration with ByteDance Inc. Feel free to reach out if you are interested in learning more about my research.
+I am currently working on storage systems for LLM reinforcement learning training, in collaboration with [ByteDance Seed](https://seed.bytedance.com/en/). Feel free to reach out if you are interested in learning more about my research.
 {style="text-align: justify;"}
