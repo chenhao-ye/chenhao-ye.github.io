@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. student in Computer Sciences
+    - course: Ph.D. student in Computer Science
       institution: University of Wisconsin-Madison
       year: 2020 - Present
-    - course: B.S. in Computer Sciences
+    - course: B.S. in Computer Science
       institution: University of Wisconsin-Madison
       year: 2019 - 2020
     - course: B.S. in Electrical and Computer Engineering
       institution: Shanghai Jiao Tong University
-      year: 2016 - 2018
+      year: 2016 - 2018, 2021 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
