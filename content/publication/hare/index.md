@@ -71,4 +71,9 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+links:
+- name: URL
+  url: https://www.usenix.org/conference/fast26/presentation/ye
+
 ---
